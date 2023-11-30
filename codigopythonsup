@@ -1,6 +1,5 @@
 import random
 
-
 def nombrehereo (nombre):
   selector = random.randint(1 , 8)
   match selector:
